@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="ru'
+<html lang="ru">
 <head>
-<meta charset="UTF-8">
-<meta name="vievport" content="width=device-width">
-<title>[pleskIV129]</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
 <h1>Привет!Меня зовут Игорь</h1>
@@ -11,7 +11,7 @@
 <h2>Мои увлечения</h2>
 <ul>
 <li>[играть в компьютер]</li>
-<liL[общаться с друщьями]</li>
+<li>[общаться с друзьями]</li>
 </ul>
 </body>
 </html>
